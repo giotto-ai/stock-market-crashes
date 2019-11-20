@@ -1,0 +1,11 @@
+giotto-learn
+jupyterlab
+matplotlib
+numpy
+openml
+pandas
+plotly
+scikit-learn
+ipywidgets==7.5
+yfinance
+seaborn
