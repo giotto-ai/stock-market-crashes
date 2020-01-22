@@ -1,4 +1,4 @@
-giotto-learn
+giotto-tda
 jupyterlab
 matplotlib
 numpy
