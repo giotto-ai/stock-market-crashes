@@ -1,7 +1,7 @@
 # Detecting Stock Market Crashes with Topological Data Analysis
 
 ## What is it?
-A demo on how to build a simple topological detector to analyse stock market crashes.
+A demo on how to build a simple topological detector to analyse stock market crashes. To learn more, have a look at our [blog post](https://towardsdatascience.com/detecting-stock-market-crashes-with-topological-data-analysis-7d5dd98abe42).
 
 ## Getting started
 
