@@ -1,11 +1,7 @@
 giotto-tda
-jupyterlab
+jupyter
 matplotlib
-numpy
 openml
 pandas
-plotly
-scikit-learn
-ipywidgets==7.5
 yfinance
 seaborn
