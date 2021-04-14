@@ -1,9 +1,7 @@
 """Plot functions """
 
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import plotly.graph_objs as gobj
 
 
 def plot_crash_detections(
